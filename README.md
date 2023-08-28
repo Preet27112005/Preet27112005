@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Preet27112005
+- 👀 I’m interested in learning constructive things...
+- 🌱 I’m currently learning myself...
+- 📫 my phone no. 7623062711...
+
+<!---
+Preet27112005/Preet27112005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
